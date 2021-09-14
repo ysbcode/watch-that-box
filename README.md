@@ -1,4 +1,4 @@
-# Watch Than Box! #
+# Watch That Box! #
 
 ## Acitivity ##
 Make a box appear on the screen and create buttons with different functions to change appearance of the box
